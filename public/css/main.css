@@ -1,0 +1,15 @@
+.space{
+    padding: 1rem;
+}
+
+p{
+    white-space: nowrap;
+    width: 100%;
+    overflow: hidden;
+    text-overflow:    ellipsis;
+}
+
+div {
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
